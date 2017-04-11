@@ -1,3 +1,6 @@
+**NOTE**: this is a fork of [`jsdoc-to-markdown`](https://github.com/jsdoc2md/jsdoc-to-markdown)
+  with [`jsdoc2md-stats`](https://github.com/jsdoc2md/stats) removed.
+
 [![view on npm](http://img.shields.io/npm/v/jsdoc-to-markdown.svg)](https://www.npmjs.org/package/jsdoc-to-markdown)
 [![npm module downloads](http://img.shields.io/npm/dt/jsdoc-to-markdown.svg)](https://www.npmjs.org/package/jsdoc-to-markdown)
 [![Build Status](https://travis-ci.org/jsdoc2md/jsdoc-to-markdown.svg?branch=master)](https://travis-ci.org/jsdoc2md/jsdoc-to-markdown)
